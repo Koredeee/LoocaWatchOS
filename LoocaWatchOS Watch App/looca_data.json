@@ -1,0 +1,289 @@
+{
+    "canteens": [
+        {
+            "id": 1,
+            "name": "Green Office Park 1 Canteen",
+            "description": "Located in the basement of Traveloka Building",
+            "latitude": -6.301458549442683,
+            "longitude": 106.65057935323979,
+            "estimationInMin": 10,
+            "distanceInMeters": 500,
+            "directions": [
+                {
+                    "id": 1,
+                    "description": "Turn Right in Front of Apple Developer Academy",
+                    "afterMeters": 0,
+                    "latitude": -6.30215,
+                    "longitude": 106.65231
+                },
+                {
+                    "id": 2,
+                    "description": "Turn Left at the Park",
+                    "afterMeters": 35,
+                    "latitude": -6.30189,
+                    "longitude": 106.65214
+                },
+                {
+                    "id": 3,
+                    "description": "Continue Straight at the Park",
+                    "afterMeters": 13,
+                    "latitude": -6.30198,
+                    "longitude": 106.65208
+                },
+                {
+                    "id": 4,
+                    "description": "Slide Right at the Park and facing to Sinarmas Building",
+                    "afterMeters": 36,
+                    "latitude": -6.30197,
+                    "longitude": 106.65176
+                },
+                {
+                    "id": 5,
+                    "description": "Continue Straight following the sidewalk with the roof",
+                    "afterMeters": 12,
+                    "latitude": -6.30193,
+                    "longitude": 106.65166
+                },
+                {
+                    "id": 6,
+                    "description": "Turn Right to the sidewalk",
+                    "afterMeters": 57,
+                    "latitude": -6.30199,
+                    "longitude": 106.65115
+                },
+                {
+                    "id": 7,
+                    "description": "Turn Left to the Zebra Cross",
+                    "afterMeters": 29,
+                    "latitude": -6.30179,
+                    "longitude": 106.65099
+                },
+                {
+                    "id": 8,
+                    "description": "Continue Straight and Cross the Walk",
+                    "afterMeters": 11,
+                    "latitude": -6.30184,
+                    "longitude": 106.65091
+                },
+                {
+                    "id": 9,
+                    "description": "Turn Left to the Traveloka Campus Building",
+                    "afterMeters": 17,
+                    "latitude": -6.30184,
+                    "longitude": 106.65076
+                },
+                {
+                    "id": 10,
+                    "description": "Turn Right at the in front of CIMB NIAGA Bank",
+                    "afterMeters": 23,
+                    "latitude": -6.30186,
+                    "longitude": 106.65056
+                },
+                {
+                    "id": 11,
+                    "description": "Turn Left to the Traveloka Campus area",
+                    "afterMeters": 17,
+                    "latitude": -6.30188,
+                    "longitude": 106.65041
+                },
+                {
+                    "id": 12,
+                    "description": "Turn Left and go inside to the GOP 1 south door",
+                    "afterMeters": 32,
+                    "latitude": -6.30160,
+                    "longitude": 106.65035
+                },
+                {
+                    "id": 13,
+                    "description": "Slide Left heading to Downstairs",
+                    "afterMeters": 32,
+                    "latitude": -6.30180,
+                    "longitude": 106.65015
+                },
+                {
+                    "id": 14,
+                    "description": "Continue Straight to the Downstairs",
+                    "afterMeters": 8,
+                    "latitude": -6.30183,
+                    "longitude": 106.65009
+                },
+                {
+                    "id": 15,
+                    "description": "Make a U turn to the second Downstairs",
+                    "afterMeters": 3,
+                    "latitude": -6.30184,
+                    "longitude": 106.65007
+                },
+                {
+                    "id": 16,
+                    "description": "Turn Left to the Basement door",
+                    "afterMeters": 5,
+                    "latitude": -6.30181,
+                    "longitude": 106.65010
+                },
+                {
+                    "id": 17,
+                    "description": "Turn Right at the Basement after the passed door",
+                    "afterMeters": 5,
+                    "latitude": -6.30182,
+                    "longitude": 106.65014
+                },
+                {
+                    "id": 18,
+                    "description": "Continue Straight heading to GOP 1 Canteen Entrance",
+                    "afterMeters": 27,
+                    "latitude": -6.30181,
+                    "longitude": 106.65038
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Green Office Park 6 Canteen",
+            "description": "Located in the basement of Sinarmas Land Building",
+            "latitude": -6.30243,
+            "longitude": 106.65225,
+            "estimationInMin": 7,
+            "distanceInMeters": 400,
+            "directions": [
+                {
+                    "id": 19,
+                    "description": "Turn Right in Front of Apple Developer Academy",
+                    "afterMeters": 0,
+                    "latitude": -6.30213,
+                    "longitude": 106.65212
+                },
+                {
+                    "id": 20,
+                    "description": "Turn Right to follow curved path between the grass",
+                    "afterMeters": 16,
+                    "latitude": -6.30220,
+                    "longitude": 106.65219
+                },
+                {
+                    "id": 21,
+                    "description": "Keep Straight Following the Road",
+                    "afterMeters": 30,
+                    "latitude": -6.30177,
+                    "longitude": 106.65228
+                },
+                {
+                    "id": 22,
+                    "description": "At the end of the road, take stairs to go to the downstairs",
+                    "afterMeters": 15,
+                    "latitude": -6.30192,
+                    "longitude": 106.65262
+                },
+                {
+                    "id": 23,
+                    "description": "Cross the Road at the Zebra Cross",
+                    "afterMeters": 20,
+                    "latitude": -6.30211,
+                    "longitude": 106.65283
+                },
+                {
+                    "id": 24,
+                    "description": "Turn Right After The Zebra Cross",
+                    "afterMeters": 30,
+                    "latitude": -6.30209,
+                    "longitude": 106.65299
+                },
+                {
+                    "id": 25,
+                    "description": "Continue Straight Following the Zebra Cross",
+                    "afterMeters": 15,
+                    "latitude": -6.30226,
+                    "longitude": 106.65293
+                },
+                {
+                    "id": 26,
+                    "description": "Turn Left after crossing the Zebra Cross",
+                    "afterMeters": 10,
+                    "latitude": -6.30247,
+                    "longitude": 106.65291
+                },
+                {
+                    "id": 27,
+                    "description": "Continue Straight Following the Road",
+                    "afterMeters": 10,
+                    "latitude": -6.30241,
+                    "longitude": 106.65287
+                },
+                {
+                    "id": 28,
+                    "description": "Turn Right at the GOP 9 Entrance Gate",
+                    "afterMeters": 25,
+                    "latitude": -6.30247,
+                    "longitude": 106.65305
+                },
+                {
+                    "id": 29,
+                    "description": "Continue Straight Following the Road",
+                    "afterMeters": 30,
+                    "latitude": -6.30257,
+                    "longitude": 106.65314
+                },
+                {
+                    "id": 30,
+                    "description": "Turn Right to Enter GOP 6 Canteen Entrance",
+                    "afterMeters": 10,
+                    "latitude": -6.30276,
+                    "longitude": 106.65323
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Green Office Park 9 Canteen",
+            "description": "Located in the basement of Monash University's Building",
+            "latitude": -6.30279,
+            "longitude": 106.65321,
+            "estimationInMin": 5,
+            "distanceInMeters": 100,
+            "directions": [
+                {
+                    "id": 31,
+                    "description": "Turn Left in Front of Apple Developer Academy",
+                    "afterMeters": 0,
+                    "latitude": -6.30216,
+                    "longitude": 106.65223
+                },
+                {
+                    "id": 32,
+                    "description": "Keep walking Straight enter the Gate",
+                    "afterMeters": 25,
+                    "latitude": -6.30232,
+                    "longitude": 106.65207
+                },
+                {
+                    "id": 33,
+                    "description": "Keep Straight head down with the Lift or using staircase to go down floor",
+                    "afterMeters": 14,
+                    "latitude": -6.30226,
+                    "longitude": 106.65218
+                },
+                {
+                    "id": 34,
+                    "description": "Turn left after exiting the building using the exit gate",
+                    "afterMeters": 19,
+                    "latitude": -6.30221,
+                    "longitude": 106.65234
+                },
+                {
+                    "id": 35,
+                    "description": "Keep Straight walking down straight passing by “Alfamart”",
+                    "afterMeters": 19,
+                    "latitude": -6.30238,
+                    "longitude": 106.65231
+                },
+                {
+                    "id": 36,
+                    "description": "Enter the Door toward “Green Eatery”",
+                    "afterMeters": 29,
+                    "latitude": -6.30212,
+                    "longitude": 106.65228
+                }
+            ]
+        }
+    ]
+}

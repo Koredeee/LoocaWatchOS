@@ -11,7 +11,7 @@ import SwiftUI
 struct LoocaWatchOS_Watch_AppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView(viewModel: HomeViewModel())
         }
     }
 }
